@@ -1,9 +1,4 @@
-/**
- * Delete product command
- * @authors 
- * Omer Sananes - 207644980||
- *Vlad Karasove - 320937014
- */
+
 package command;
 
 import java.io.FileNotFoundException;
