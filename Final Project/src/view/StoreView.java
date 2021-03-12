@@ -1,9 +1,4 @@
-/**
- * Store view, which holds all views as components, and manging the view
- * @authors 
- * Omer Sananes - 207644980||
- *Vlad Karasove - 320937014
- */
+
 package view;
 
 import java.io.IOException;
