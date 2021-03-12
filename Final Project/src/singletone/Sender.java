@@ -1,9 +1,4 @@
-/**
- * Singletone mode, only one sender
- * @authors 
- * Omer Sananes - 207644980||
- *Vlad Karasove - 320937014
- */
+
 package singletone;
 
 import classes.Store;
