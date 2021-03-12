@@ -1,9 +1,4 @@
-/**
- * Store memnto - saving for undo product
- * @authors 
- * Omer Sananes - 207644980||
- *Vlad Karasove - 320937014
- */
+
 package memento;
 
 import java.util.ArrayList;
