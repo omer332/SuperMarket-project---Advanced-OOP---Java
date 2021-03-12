@@ -1,9 +1,3 @@
-/**
- * Customers
- * @authors 
- * Omer Sananes - 207644980||
- *Vlad Karasove - 320937014
- */
 package classes;
 
 import java.io.Serializable;
