@@ -31,7 +31,6 @@ public class StoreView {
 	// Constructor
 	public StoreView(Stage primaryStage) throws Exception {
 		storeStage = new Stage();
-		storeStage.setTitle("Omer Sananes & Vladi Karasov");
 		firstView();
 	}
 
