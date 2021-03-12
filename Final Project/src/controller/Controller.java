@@ -1,9 +1,4 @@
-/**
- * Controller for view (StoreView) and model (Store)
- * @authors 
- * Omer Sananes - 207644980||
- *Vlad Karasove - 320937014
- */
+
 package controller;
 
 import java.io.FileNotFoundException;
