@@ -1,9 +1,4 @@
-/**
- * Store as the observable
- * @authors 
- * Omer Sananes - 207644980||
- *Vlad Karasove - 320937014
- */
+
 package observer;
 
 public interface Observable {
