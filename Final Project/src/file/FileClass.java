@@ -1,9 +1,4 @@
-/**
- * File class
- * @authors 
- * Omer Sananes - 207644980||
- *Vlad Karasove - 320937014
- */
+
 package file;
 
 import java.io.File;
