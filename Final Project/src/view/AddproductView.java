@@ -1,9 +1,4 @@
-/**
- * Adding product view
- * @authors 
- * Omer Sananes - 207644980||
- *Vlad Karasove - 320937014
- */
+
 package view;
 
 import javax.swing.JOptionPane;
